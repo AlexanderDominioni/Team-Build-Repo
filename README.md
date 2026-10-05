@@ -10,12 +10,12 @@
 
 ### Team Name
 
-Domioni Inc
+Dominioni Inc
 
 ### Team Members
 
 Aidan Jones,
-Alex Domioni
+Alex Dominioni
 
 
 ### System Name
