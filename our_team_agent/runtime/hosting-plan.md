@@ -8,8 +8,7 @@ Written in plain words with the BUS 4498 Agent Builder Kit. Our AI assistant tur
 - Our agent’s folder: `our_team_agent` (our plans are in `our_team_agent/runtime/`)
 - Supabase project: https://audjjpucbtbtyqortmlv.supabase.co
 - Owner of the repository and the Supabase project: Alex Dominioni
-- Teammate: Aidan Jones, a collaborator on GitHub and a Developer in the Supabase organization
-- We say “I’m working on it” and “pushed” in: Our group chat. One of us works at a time.
+- Team member: Aidan Jones, who wrote our workflow and task specifications. Alex Dominioni is building this repository and Supabase project alone, so Aidan is not currently a collaborator on GitHub or a Developer in the Supabase organization.
 
 ## What our agent does
 

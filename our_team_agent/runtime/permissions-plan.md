@@ -75,7 +75,7 @@ The Front Desk Manager or Alex Dominioni signs in and turns on **Pause the agent
 
 ## How mistakes are reported
 
-Every lesson in the signed-in app has a **Report a problem** button, and every email the agent sends has a link for reporting a mistake. Each report saves the lesson, who reported it, and a note, blame-free. The Front Desk Manager reviews reports every day, and Alex Dominioni reviews them with Aidan Jones each week.
+Every lesson in the signed-in app has a **Report a problem** button, and every email the agent sends has a link for reporting a mistake. Each report saves the lesson, who reported it, and a note, blame-free. The Front Desk Manager reviews reports every day, and Alex Dominioni reviews them each week.
 
 ## Rules we keep
 
